@@ -13,6 +13,7 @@ dependencies = [
     "langchain==0.3.25",
     "langgraph==0.3.25",
     "litellm>=1.83.0",
+    "pydantic>=2.7.4,<2.13",
     "strands-agents[litellm]",
     "strands-agents>=1.5.0",
     "strands-agents-builder>=0.1.10",
